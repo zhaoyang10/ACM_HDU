@@ -52,4 +52,4 @@ int main()
         printf("%d\n",get(n));
     }
     return 0;
-}
+} 
